@@ -76,11 +76,4 @@ This setup shows 2 examples first, then asks the model to continue the pattern �
 
 ---
 
-## 🛠️ Tips to Customize
-
-- Modify prompts for summarization, dialogue, explanations, etc.
-- Use `ConversationChain`, `LLMMathChain`, or memory modules
-- Chain multiple prompts together for complex workflows
-
----
 
