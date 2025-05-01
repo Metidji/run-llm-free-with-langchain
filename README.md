@@ -20,9 +20,6 @@ This project shows how to run a lightweight language model (LLM) for **free** on
 
 ---
 
-## 🧪 Try It Now (Colab)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/langchain-alpaca-colab-demo/blob/main/_langChain_.ipynb)
 
 ### ✅ Setup Steps in Colab
 
