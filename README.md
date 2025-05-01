@@ -1,4 +1,4 @@
-# LangChain & Alpaca-native on Colab — Free, Fast, and Flexible
+# run-llm-free-with-langchain
 
 This project shows how to run a lightweight language model (LLM) for **free** on **Google Colab** using [Alpaca-native](https://huggingface.co/chavinlo/alpaca-native), and how to integrate it with **LangChain** for building smart prompt pipelines — including an easy-to-understand example using **Few-Shot Prompt Templates**.
 
