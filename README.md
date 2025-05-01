@@ -15,14 +15,14 @@ This project shows how to run a lightweight language model (LLM) for **free** on
 
 ## 📂 Files
 
-- `LangChain_Alpaca_Demo.ipynb` — Notebook with all setup and examples
+- `_langChain_.ipynb` — Notebook with all setup and examples
 - `README.md` — This guide
 
 ---
 
 ## 🧪 Try It Now (Colab)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/langchain-alpaca-colab-demo/blob/main/LangChain_Alpaca_Demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/langchain-alpaca-colab-demo/blob/main/_langChain_.ipynb)
 
 ### ✅ Setup Steps in Colab
 
